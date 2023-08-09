@@ -3,7 +3,6 @@
 - [DimCel](https://github.com/dimcel)
 - [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
-  Shivam Rajput
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Nayan Jyoti Das](https://github.com/njdasa)
@@ -716,7 +715,6 @@
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam]([https://github.com/Rserhat01)
 - [MK Saba](https://github.com/mksaba)
-- Jiang J
 - [Dinesh Dhanji](https://github.com/DineshDhanji)
 - [promax1113](https://github.com/promax1113)
 - [ganximi](https://github.com/ganximi)
